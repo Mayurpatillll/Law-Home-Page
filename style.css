@@ -1,0 +1,58 @@
+* {
+    background-color: rgb(43, 41, 34);
+    font-family: Montserrat;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: large;
+    color: white;
+}
+
+.button-small {
+    font-size: 18px;
+    border-radius: 14px;
+    padding: 12px;
+    border-color: antiquewhite;
+    color: rgb(157, 141, 53);
+    background: transparent;
+}
+
+.bottom img {
+    margin-top: 40px;
+    width: 100%;
+    height: 500px;
+}
+
+.hero {
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero h1 {
+    color: rgb(241, 240, 239);
+    font-size: 60px;
+    margin-left: 104px;
+    margin-top: 108px;
+}
+
+.hero p {
+    color: rgb(241, 240, 239);
+    width: 382px;
+    margin-top: 130px;
+    margin-right: 181px;
+    font-size: 24px;
+    line-height: 35px;
+}
